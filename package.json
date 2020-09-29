@@ -1,0 +1,16 @@
+{
+  "name": "flutter_practice",
+  "version": "1.0.0",
+  "description": "A practice of Flutter",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshiyasuko/flutter-practice.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "git-cz": "^4.7.1"
+  }
+}
